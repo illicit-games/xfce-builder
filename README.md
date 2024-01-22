@@ -17,3 +17,20 @@ The fact its stable with minimal issues using xfce as a base desktop, while remo
   - terminator, because xfce4-terminal is annoying to multitask with many servers, console checks, monitoring the list goes on i do a lot of terminal based stuff on a daily both work and play similar to here?
   - firefox, because i like firefox about it? privacy, ads, tracking prevention while still staying mostly usable across sites is why.
   - Other stuff ill have to label why later.
+
+
+# license
+
+        DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
+                    Version 2, December 2004 
+
+ Copyright (C) 2024 illicit-games <> 
+
+ Everyone is permitted to copy and distribute verbatim or modified 
+ copies of this license document, and changing it is allowed as long 
+ as the name is changed. 
+
+            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
+   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION 
+
+  0. You just DO WHAT THE FUCK YOU WANT TO.
