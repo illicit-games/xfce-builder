@@ -19,11 +19,11 @@ lb config --binary-images iso-hybrid --mode debian --architectures amd64 --linux
 
 # Install Desktop
 
-echo "xfce4-appfinder xfce4-panel xfce4-session xfce4-settings xfce4-terminal pcmanfm xfconf xfdesktop4 xfwm4 xfce4-whiskermenu-plugin xfce4-power-manager xfce4-power-manager-plugins  xfce4-screenshooter network-manager-gnome network-manager-config-connectivity-debian macchanger pwgen firefox-esr weechat xarchiver p7zip-full gparted" > $WORKING/$BUILD/config/package-lists/desktop.list.chroot
+echo "xfce4-appfinder xfce4-panel xfce4-session xfce4-settings pcmanfm xfconf xfdesktop4 xfwm4 xfce4-whiskermenu-plugin xfce4-power-manager xfce4-power-manager-plugins  xfce4-screenshooter network-manager-gnome network-manager-config-connectivity-debian macchanger pwgen firefox-esr weechat xarchiver p7zip-full gparted" > $WORKING/$BUILD/config/package-lists/desktop.list.chroot
 
 # Install Applications, all of these may be able to be removed using suggsted and recommends. we will see.
 
-echo "xdm htop powertop apt-transport-https autoconf automake build-essential cifs-utils dbus-user-session dbus-x11 debconf debhelper dh-autoreconf dialog dirmngr dkms dosfstools exfatprogs fakeroot ghostscript gir1.2-ibus-1.0 grub-pc hardinfo haveged ibus ibus-data ibus-gtk ibus-gtk3 iftop im-config iw jfsutils libibus-1.0-5 libxcb-xtest0 linux-headers-amd64 lsb-release lshw menu netcat-openbsd ntfs-3g os-prober pciutils perl policykit-1 squashfs-tools sudo syslinux syslinux-common udisks2 upower x11-common xauth xdg-utils" > $WORKING/$BUILD/config/package-lists/extrapackages.list.chroot
+echo "xdm htop powertop terminator apt-transport-https autoconf automake build-essential cifs-utils dbus-user-session dbus-x11 debconf debhelper dh-autoreconf dialog dirmngr dkms dosfstools exfatprogs fakeroot ghostscript gir1.2-ibus-1.0 grub-pc hardinfo haveged ibus ibus-data ibus-gtk ibus-gtk3 iftop im-config iw jfsutils libibus-1.0-5 libxcb-xtest0 linux-headers-amd64 lsb-release lshw menu netcat-openbsd ntfs-3g os-prober pciutils perl policykit-1 squashfs-tools sudo syslinux syslinux-common udisks2 upower x11-common xauth xdg-utils" > $WORKING/$BUILD/config/package-lists/extrapackages.list.chroot
 
 
 # Install Firmware
