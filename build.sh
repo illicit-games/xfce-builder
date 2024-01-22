@@ -25,7 +25,7 @@ echo "xfce4-appfinder xfce4-panel xfce4-session xfce4-settings pcmanfm xfconf xf
 # Removed xdm as lightdm seems to be the default install when doing it this way without hooks
 # if you wish to use xdx type sudo apt install xdm and use xdm. Its much more simple while being less elegant looking.
 
-echo "htop powertop terminator apt-transport-https autoconf automake build-essential cifs-utils dbus-user-session dbus-x11 debconf debhelper dh-autoreconf dialog dirmngr dkms dosfstools exfatprogs fakeroot ghostscript gir1.2-ibus-1.0 grub-pc hardinfo haveged ibus ibus-data ibus-gtk ibus-gtk3 iftop im-config iw jfsutils libibus-1.0-5 libxcb-xtest0 linux-headers-amd64 lsb-release lshw menu netcat-openbsd ntfs-3g os-prober pciutils perl policykit-1 squashfs-tools sudo syslinux syslinux-common udisks2 upower x11-common xauth xdg-utils" > $WORKING/$BUILD/config/package-lists/extrapackages.list.chroot
+echo "mousepad htop powertop terminator apt-transport-https autoconf automake build-essential cifs-utils dbus-user-session dbus-x11 debconf debhelper dh-autoreconf dialog dirmngr dkms dosfstools exfatprogs fakeroot ghostscript gir1.2-ibus-1.0 grub-pc hardinfo haveged ibus ibus-data ibus-gtk ibus-gtk3 iftop im-config iw jfsutils libibus-1.0-5 libxcb-xtest0 linux-headers-amd64 lsb-release lshw menu netcat-openbsd ntfs-3g os-prober pciutils perl policykit-1 squashfs-tools sudo syslinux syslinux-common udisks2 upower x11-common xauth xdg-utils" > $WORKING/$BUILD/config/package-lists/extrapackages.list.chroot
 
 
 # Install Firmware
