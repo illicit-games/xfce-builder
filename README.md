@@ -2,6 +2,8 @@
 
 The idea for xfce-builder is too create a minimal build script using live-build using being efficient and focus on productivity while keeping a minimal installation base. This also includes clameras as i do install this on my personal devices and have been working on this for awhile as its usable for a drop in replacement for windows if all is required is a bit of installations vs purely dependows only thanks microsoft, developers and derps.
 
+Just added my favorite license ever, Enjoy
+
 
 # Debian Trixie
 
@@ -21,16 +23,17 @@ The fact its stable with minimal issues using xfce as a base desktop, while remo
 
 # license
 
-        DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
-                    Version 2, December 2004 
+DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
 
- Copyright (C) 2024 illicit-games <> 
+Version 2, December 2004 
 
- Everyone is permitted to copy and distribute verbatim or modified 
+Copyright (C) 2024 illicit-games <> 
+
+Everyone is permitted to copy and distribute verbatim or modified 
  copies of this license document, and changing it is allowed as long 
  as the name is changed. 
 
-            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
-   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION 
+DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
+TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION 
 
-  0. You just DO WHAT THE FUCK YOU WANT TO.
+0. You just DO WHAT THE FUCK YOU WANT TO.
